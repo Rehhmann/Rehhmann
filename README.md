@@ -1,27 +1,53 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A Data Scientist Student from Pakistan, passionate about AI & analytics</h3>
+<h3 align="center">A Data Science Student from Pakistan, passionate about AI & Analytics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehhmann&label=Profile%20views&color=0e75b6&style=flat" alt="rehhmann" /> </p>
-
-- 🔭 I’m currently working on **Console-Based Retail & Inventory System**
-
-- 🌱 I’m currently learning **C++,Generative AI tools**
-
-- 👯 I’m looking to collaborate on **Data Science & Machine Learning projects**
-
-- 🤝 I’m looking for help with **Real-world data science projects and internships**
-
-- 💬 Ask me about **C++, Data Science, OOP & AI tools**
-
-- 📫 How to reach me **abdulrehmanne63@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehhmann&label=Profile%20views&color=0e75b6&style=flat" alt="rehhmann" />
+  <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=flat" alt="status" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdulrehmanne63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehhmann&show_icons=true&locale=en" alt="rehhmann" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehhmann&" alt="rehhmann" /></p>
+### 🚀 About Me
+
+- 🔭 Currently building a **Console-Based Retail & Inventory System**
+- 🌱 Currently learning **C++** and **Generative AI tools**
+- 🤝 Looking for help with **real-world data science projects and internships**
+- 💬 Ask me about **C++, Data Science, OOP & AI tools**
+- 📫 Reach me at **abdulrehmanne63@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lightroom/lightroom-line.svg" alt="lightroom" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehhmann&show_icons=true&theme=tokyonight&locale=en" alt="rehhmann stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehhmann&layout=compact&theme=tokyonight&locale=en" alt="rehhmann top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehhmann&theme=tokyonight" alt="rehhmann streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehhmann&theme=tokyo-night" alt="rehhmann activity graph"/>
+</p>
